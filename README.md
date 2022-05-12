@@ -13,6 +13,11 @@
   <a href="https://wakatime.com/@xLucaspx" title="Lucas' Wakatime stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" align="center">
   </a>
+  <a href="https://xlucaspx.github.io/codificador-decodificador/index.html" title="Codificador/decodificador de texto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=codificador-decodificador&show_owner=true&theme=swift" align="center">
+  </a>
+</div>
+<br>
 
 - ⚠️ Estou atualmente desenvolvendo este README
 - 🔭 No momento estou buscando emprego como Desenvolvedor Front-end Junior ou Trainee
@@ -21,6 +26,3 @@
 - 🤔 Preciso, urgentemente, subir meus códigos para o GitHub
 - 💬 Sugestões, críticas, comentários, etc. são sempre bem-vindos
 - 📫 [LinkedIn](https://www.linkedin.com/in/xlucaspx/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=codificador-decodificador&show_owner=true&theme=swift)](https://github.com/xlucaspx/codificador-decodificador)
-
