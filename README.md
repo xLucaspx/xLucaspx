@@ -1,20 +1,22 @@
-## Olá, seja bem-vindo ao meu perfil do GitHub!
+# Olá, seja bem-vindo ao meu perfil do GitHub!
+(texto)
+## No momento, minhas estatísticas são essas:
 
-<div>
+<div width="100%">
   <a href="https://github.com/xlucaspx" title="Lucas' GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=xlucaspx&hide_title=true&count_private=true&show_icons=true&theme=swift" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=xlucaspx&hide_title=true&count_private=true&show_icons=true&theme=swift" align="center" height="145px" max-width="40%">
   </a>
   <a href="https://github.com/xlucaspx" title="Lucas' most used languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlucaspx&layout=compact&theme=swift" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlucaspx&layout=compact&theme=swift" align="center"  height="145px" max-width="40%">
   </a>
 </div>
 <br>
-<div>
+<div width="100%">
   <a href="https://wakatime.com/@xLucaspx" title="Lucas' Wakatime stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" align="center" height="120px" max-width="40%">
   </a>
   <a href="https://xlucaspx.github.io/codificador-decodificador/index.html" title="Codificador/decodificador de texto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=codificador-decodificador&show_owner=true&theme=swift" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=codificador-decodificador&show_owner=true&theme=swift" align="center" height="120px" max-width="40%">
   </a>
 </div>
 <br>
