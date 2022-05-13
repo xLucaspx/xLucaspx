@@ -22,9 +22,14 @@
   </a>
 </div>
 <div align="center">
-  <img src="img/javascript-logo.png" title="JavaScript" width="45px" height="45px">
-  <img src="img/html5-logo.png" title="HTML 5" width="45px" height="45px">
-  <img src="img/css3-logo.png" title="CSS 3" width="45px" height="45px">
+  <a href="https://github.com/xlucaspx">
+    <img src="img/javascript-logo.png" title="JavaScript" width="45px" height="45px">
+    <img src="img/html5-logo.png" title="HTML 5" width="45px" height="45px">
+    <img src="img/css3-logo.png" title="CSS 3" width="45px" height="45px">
+    <img src="img/git-logo.png" title="Git" width="45px" height="45px">
+    <img src="img/github-logo.png" title="GitHub" width="45px" height="45px">
+    <img src="img/vscode-logo.png" title="VS Code" width="45px" height="45px">
+  </a>
 </div>
 <br>
 
@@ -45,9 +50,8 @@
   </a>
 </div>
 
-- ⚠️ Estou atualmente desenvolvendo este README
-- 🔭 No momento estou buscando emprego como Desenvolvedor Front-end Junior ou Trainee
-- 🌱 Estudo, principalmente, JavaScript, HTML e CSS
-- 👯 Quero uma oportunidade de me inserir em uma carreira na área de desenvolvimento e cursar ensino superior ou tecnólogo 
-- 🤔 Preciso, urgentemente, subir meus códigos para o GitHub
+- ⚠️ Venho me dedicando ao Desenvolvimento Front-end;
+- 🔭 Meu objetivo é me tornar um Desenvolvedor Fullstack;
+- 🌱 No momento busco uma oportunidade de trabalho, principalmente em um programa de estágio ou treinamento; quero aprender na prática como funciona o dia-a-dia de trabalho de um desenvolvedor e também continuar estudando e me aprimorando como profissional;
+- 🤔 Pretendo subir mais projetos aqui o quanto antes;
 - 💬 Sugestões, críticas, comentários, etc. são sempre bem-vindos!
