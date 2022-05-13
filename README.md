@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo ao meu perfil do GitHub!
+git git # Olá, seja bem-vindo ao meu perfil do GitHub!
 
 ## No momento, minhas estatísticas são essas (mas estou trabalhando para melhorar):
 
@@ -50,19 +50,8 @@
   </a>
 </div>
 
-<<<<<<< HEAD
 - ⚠️ Venho me dedicando ao Desenvolvimento Front-end;
 - 🔭 Meu objetivo é me tornar um Desenvolvedor Fullstack;
 - 🌱 No momento busco uma oportunidade de trabalho, principalmente em um programa de estágio ou treinamento; quero aprender na prática como funciona o dia-a-dia de trabalho de um desenvolvedor e também continuar estudando e me aprimorando como profissional;
 - 🤔 Pretendo subir mais projetos aqui o quanto antes;
 - 💬 Sugestões, críticas, comentários, etc. são sempre bem-vindos!
-=======
----
-
-- ⚠️ Estou atualmente desenvolvendo este README
-- 🔭 No momento estou buscando emprego como Desenvolvedor Front-end Junior ou Trainee
-- 🌱 Estudo, principalmente, JavaScript, HTML e CSS
-- 👯 Quero uma oportunidade de me inserir em uma carreira na área de desenvolvimento e cursar ensino superior ou tecnólogo 
-- 🤔 Preciso, urgentemente, subir meus códigos para o GitHub
-- 💬 Sugestões, críticas, comentários, etc. são sempre bem-vindos!
->>>>>>> bf50af9752d27e2957643bea0ed16ead949edaa8
