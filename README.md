@@ -1,4 +1,4 @@
-git git # Olá, seja bem-vindo ao meu perfil do GitHub!
+# Olá, seja bem-vindo ao meu perfil do GitHub!
 
 ## No momento, minhas estatísticas são essas (mas estou trabalhando para melhorar):
 
@@ -28,7 +28,6 @@ git git # Olá, seja bem-vindo ao meu perfil do GitHub!
     <img src="img/html5-logo.png" title="HTML 5" width="45px" height="45px">
     <img src="img/css3-logo.png" title="CSS 3" width="45px" height="45px">
     <img src="img/git-logo.png" title="Git" width="45px" height="45px">
-    <img src="img/github-logo.png" title="GitHub" width="45px" height="45px">
     <img src="img/vscode-logo.png" title="VS Code" width="45px" height="45px">
   </a>
 </div>
@@ -37,21 +36,25 @@ git git # Olá, seja bem-vindo ao meu perfil do GitHub!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/xlucaspx/" title="Lucas da Paz | LinkedIn">
-    <img src="img/logo-linkedin.png" width="45px" height="45px">
+    <img src="img/linkedin-logo.png" width="45px" height="45px">
   </a>
   <a href="https://www.instagram.com/luacspaz/" title="Lucas da Paz (@luacspaz) | Instagram">
-    <img src="img/logo-instagram.png" width="45px" height="45px">
+    <img src="img/instagram-logo.png" width="45px" height="45px">
   </a>
   <a href="https://open.spotify.com/user/lo78kmqfpgsqaj2o357ieys6g?si=74668b5906e9441a" title="Lucaspx | Spotify">
-    <img src="img/logo-spotify.png" width="45px" height="45px">
+    <img src="img/spotify-logo.png" width="45px" height="45px">
   </a>
   <a href="https://twitter.com/luacspaz" title="Lucas da Paz (@luacspaz) | Twitter">
-    <img src="img/logo-twitter.png" width="45px" height="45px">
+    <img src="img/twitter-logo.png" width="45px" height="45px">
   </a>
 </div>
 
-- ⚠️ Venho me dedicando ao Desenvolvimento Front-end;
+##
+
+- 💻 Venho me dedicando ao Desenvolvimento Front-end;
 - 🔭 Meu objetivo é me tornar um Desenvolvedor Fullstack;
 - 🌱 No momento busco uma oportunidade de trabalho, principalmente em um programa de estágio ou treinamento; quero aprender na prática como funciona o dia-a-dia de trabalho de um desenvolvedor e também continuar estudando e me aprimorando como profissional;
-- 🤔 Pretendo subir mais projetos aqui o quanto antes;
+- 🏃 Pretendo subir mais projetos aqui o quanto antes;
 - 💬 Sugestões, críticas, comentários, etc. são sempre bem-vindos!
+
+---
