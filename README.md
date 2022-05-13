@@ -1,8 +1,6 @@
 # Olá, seja bem-vindo ao meu perfil do GitHub!
 
-(texto)
-
-## No momento, minhas estatísticas são essas:
+## No momento, minhas estatísticas são essas (mas estou trabalhando para melhorar):
 
 <div align="center">
   <a href="https://github.com/xlucaspx">
@@ -13,6 +11,7 @@
   </a>
 </div>
 <br>
+
 <div align="center">
   <a href="https://github.com/xlucaspx">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" title="Lucas' Wakatime stats" align="center" max-width="40%" height="120px">
@@ -21,12 +20,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=codificador-decodificador&show_owner=true&theme=swift" align="center" max-width="40%" height="120px">
   </a>
 </div>
+<br>
+
 <div align="center">
   <img src="img/javascript-logo.png" title="JavaScript" width="45px" height="45px">
   <img src="img/html5-logo.png" title="HTML 5" width="45px" height="45px">
   <img src="img/css3-logo.png" title="CSS 3" width="45px" height="45px">
 </div>
-<br>
 
 ## Minhas redes:
 
@@ -44,6 +44,8 @@
     <img src="img/logo-twitter.png" width="45px" height="45px">
   </a>
 </div>
+
+---
 
 - ⚠️ Estou atualmente desenvolvendo este README
 - 🔭 No momento estou buscando emprego como Desenvolvedor Front-end Junior ou Trainee
