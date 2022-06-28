@@ -16,8 +16,8 @@
   <a href="https://github.com/xlucaspx">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" title="Lucas' Wakatime stats" align="center" max-width="40%" height="120px">
   </a>
-  <a href="https://xlucaspx.github.io/codificador-decodificador/index.html" title="Codificador/decodificador de texto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=codificador-decodificador&show_owner=true&theme=swift" align="center" max-width="40%" height="120px">
+  <a href="https://xlucaspx.github.io/apeperia" title="Projeto: Apeperia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=apeperia&show_owner=true&theme=swift" align="center" max-width="40%" height="120px">
   </a>
 </div>
 <br>
