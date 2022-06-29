@@ -4,20 +4,20 @@
 
 <div align="center">
   <a href="https://github.com/xlucaspx">
-    <img src="https://github-readme-stats.vercel.app/api?username=xlucaspx&hide_title=true&count_private=true&show_icons=true&theme=swift" title="Lucas' GitHub stats" align="center" max-width="40%" height="145px">
+    <img src="https://github-readme-stats.vercel.app/api?username=xlucaspx&hide_title=true&count_private=true&show_icons=true&theme=swift" title="Lucas' GitHub stats" align="center" max-width="45%" height="145px">
   </a>
   <a href="https://github.com/xlucaspx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlucaspx&layout=compact&theme=swift" title="Lucas' most used languages" align="center" max-width="40%"  height="145px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlucaspx&layout=compact&theme=swift" title="Lucas' most used languages" align="center" max-width="45%"  height="145px">
   </a>
 </div>
 <br>
 
 <div align="center">
   <a href="https://github.com/xlucaspx">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" title="Lucas' Wakatime stats" align="center" max-width="40%" height="120px">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" title="Lucas' Wakatime stats" align="center" max-width="45%" height="140px">
   </a>
   <a href="https://xlucaspx.github.io/apeperia" title="Projeto: Apeperia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=apeperia&show_owner=true&theme=swift" align="center" max-width="40%" height="120px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=apeperia&show_owner=true&theme=swift" align="center" max-width="45%" height="140px">
   </a>
 </div>
 <br>
