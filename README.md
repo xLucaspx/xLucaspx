@@ -16,8 +16,8 @@
   <a href="https://github.com/xlucaspx">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xlucaspx&theme=swift" title="Lucas' Wakatime stats" align="center" max-width="45%" height="140px">
   </a>
-  <a href="https://xlucaspx.github.io/apeperia" title="Projeto: Apeperia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=apeperia&show_owner=true&theme=swift" align="center" max-width="45%" height="140px">
+  <a href="https://xlucaspx.github.io/portfolio" title="Projeto: Apeperia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=portfolio&show_owner=true&theme=swift" align="center" max-width="45%" height="140px">
   </a>
 </div>
 <br>
