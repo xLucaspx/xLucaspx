@@ -22,17 +22,11 @@
 
 <div align="center">
     <img src="img/java-logo.png" title="Java" alt="" width="45px" height="45px">
-
     <img src="img/html5-logo.png" title="HTML" alt="" width="45px" height="45px">
-
     <img src="img/css3-logo.png" title="CSS" alt="" width="45px" height="45px">
-
     <img src="img/javascript-logo.png" title="JavaScript" alt="" width="45px" height="45px">
-
     <img src="img/git-logo.png" title="Git" alt="" width="45px" height="45px">
-
     <img src="img/vscode-logo.png" title="VS Code" alt="" width="45px" height="45px">
-
     <img src="img/eclipse-logo.png" title="Eclipse" alt="" width="45px" height="45px">
 </div>
 
@@ -60,7 +54,7 @@
   </a>
 
   <a href="https://xlucaspx.github.io/portfolio/cv-lucas.pdf" title="Lucas' resume" target="_blank">
-    <img src="cv.png" alt="" width="45px" height="45px">
+    <img src="img/cv.png" alt="" width="45px" height="45px">
   </a>
 </div>
 
