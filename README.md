@@ -73,10 +73,10 @@
 ## Oracle Next Education badges
 
 <div align="center">
-  <img src="img/badges-one/codificador.png" alt="First challenge badge" width="200px" height="200px">
-  <img src="img/badges-one/forca.png" alt="Second challenge badge" width="200px" height="200px">
-  <img src="img/badges-one/portfolio.png" alt="Third challenge badge" width="200px" height="200px">
-  <img src="img/badges-one/alurageek.png" alt="Fourth challenge badge" width="200px" height="200px">
-  <img src="img/badges-one/conversor.png" alt="Fifth challenge badge" width="200px" height="200px">
-  <img src="img/badges-one/hotel.png" alt="Sixth challenge badge" width="200px" height="200px">
+  <img src="img/badges-one/codificador.png" alt="First challenge badge" width="115px" height="115px">
+  <img src="img/badges-one/forca.png" alt="Second challenge badge" width="115px" height="115px">
+  <img src="img/badges-one/portfolio.png" alt="Third challenge badge" width="115px" height="115px">
+  <img src="img/badges-one/alurageek.png" alt="Fourth challenge badge" width="115px" height="115px">
+  <img src="img/badges-one/conversor.png" alt="Fifth challenge badge" width="115px" height="115px">
+  <img src="img/badges-one/hotel.png" alt="Sixth challenge badge" width="115px" height="115px">
 </div>
