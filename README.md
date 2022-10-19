@@ -58,9 +58,7 @@
   </a>
 </div>
 
----
-
-### Highlighted projects
+## Highlighted projects
 
 <div align="center">
   <a href="https://github.com/xLucaspx/alurageek" title="Alurageek" target="_blank">
@@ -70,4 +68,15 @@
   <a href="https://github.com/xLucaspx/conversor-java" title="Conversor Java" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlucaspx&repo=conversor-java&show_owner=true&theme=swift" align="center" width="45%" height="150px">
   </a>
+</div>
+
+## Oracle Next Education badges
+
+<div align="center">
+  <img src="img/badges-one/codificador.png" alt="First challenge badge" width="200px" height="200px">
+  <img src="img/badges-one/forca.png" alt="Second challenge badge" width="200px" height="200px">
+  <img src="img/badges-one/portfolio.png" alt="Third challenge badge" width="200px" height="200px">
+  <img src="img/badges-one/alurageek.png" alt="Fourth challenge badge" width="200px" height="200px">
+  <img src="img/badges-one/conversor.png" alt="Fifth challenge badge" width="200px" height="200px">
+  <img src="img/badges-one/hotel.png" alt="Sixth challenge badge" width="200px" height="200px">
 </div>
