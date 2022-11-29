@@ -6,11 +6,11 @@
 
 🌱 My main goal is to successfully work as a developer, in ways that I can contribute meaningfully to a better world!
 
-## My stats
+---
 
 <div align="center">
-  <a href="https://github.com/xlucaspx" title="GitHub stats">
-    <img src="https://github-readme-stats-xlucaspx.vercel.app/api?username=xlucaspx&hide_title=true&count_private=true&show_icons=true&theme=swift" alt width="45%" height="150px">
+  <a href="https://github.com/xlucaspx" title="Lucas' GitHub stats">
+    <img src="https://github-readme-stats-xlucaspx.vercel.app/api?username=xlucaspx&count_private=true&show_icons=true&theme=swift" alt width="45%" height="150px">
   </a>
   
    <a href="https://github.com/xlucaspx" title="Most used languages">
@@ -26,7 +26,6 @@
   <img src="img/tools/nodejs-logo.svg" title="Node.js" alt width="45px" height="45px">
   <img src="img/tools/html5-logo.svg" title="HTML" alt width="45px" height="45px">
   <img src="img/tools/css3-logo.svg" title="CSS" alt width="45px" height="45px">
-  <img src="img/tools/git-logo.svg" title="Git" alt width="45px" height="45px">
   <img src="img/tools/vscode-logo.svg" title="VS Code" alt width="45px" height="45px">
   <img src="img/tools/eclipse-logo.png" title="Eclipse" alt width="45px" height="45px">
 </div>
