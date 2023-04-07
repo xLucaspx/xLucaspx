@@ -45,7 +45,7 @@
     <img src="img/contact/spotify-logo.png" alt width="45px" height="45px">
   </a>
 
-  <a href="https://twitter.com/luacspaz" title="@luacspaz | Twitter" target="_blank">
+  <a href="https://twitter.com/xLucaspx" title="@xLucaspx | Twitter" target="_blank">
     <img src="img/contact/twitter-logo.png" alt width="45px" height="45px">
   </a>
 
