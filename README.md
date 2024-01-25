@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-💻 I'm a systems development student and junior full stack developer;
+💻 I'm a software engineering student and junior full stack developer;
 
 📈 I like to study Agile and apply the concepts in my projects;
 
@@ -11,26 +11,26 @@
 ---
 
 <div align="middle">
-  <a href="https://github.com/xlucaspx" title="Lucas' GitHub stats">
-    <img src="https://github-readme-stats-xlucaspx.vercel.app/api?username=xlucaspx&count_private=true&show_icons=true&theme=swift" alt width="400" heigth="150">
-  </a>
-   <a href="https://github.com/xlucaspx" title="Most used languages">
-    <img src="https://github-readme-stats-xlucaspx.vercel.app/api/top-langs/?username=xlucaspx&layout=compact&theme=swift" alt width="400" heigth="150">
-  </a>
+  <img src="https://github-readme-stats-xlucaspx.vercel.app/api?username=xlucaspx&count_private=true&show_icons=true&theme=swift" alt title="Lucas' GitHub stats" width="400" heigth="150">
+  <img src="https://github-readme-stats-xlucaspx.vercel.app/api/top-langs/?username=xlucaspx&layout=compact&theme=swift" alt title="Most used languages" width="400" heigth="150">
 </div>
 
-## Most used languages and tools
+## Languages and tools I know
 
 <div align="middle">
+  <img src="img/tools/java-logo.svg" title="Java" alt width="45px" height="45px">
+  <img src="img/tools/spring-logo.svg" title="Spring Boot" alt width="45px" height="45px">
   <img src="img/tools/nodejs-logo.svg" title="Node.js" alt width="45px" height="45px">
   <img src="img/tools/javascript-logo.svg" title="JavaScript" alt width="45px" height="45px">
   <img src="img/tools/typescript-logo.svg" title="TypeScript" alt width="45px" height="45px">
-  <img src="img/tools/java-logo.svg" title="Java" alt width="45px" height="45px">
   <img src="img/tools/vuejs-logo.svg" title="Vue.js" alt width="45px" height="45px">
-  <img src="img/tools/html5-logo.svg" title="HTML" alt width="45px" height="45px">
-  <img src="img/tools/css3-logo.svg" title="CSS" alt width="45px" height="45px">
+  <img src="img/tools/mysql-logo.svg" title="MySQL" alt width="45px" height="45px">
+  <img src="img/tools/mongodb-logo.svg" title="MongoDB" alt width="45px" height="45px">
+  <img src="img/tools/grafana-logo.svg" title="Grafana" alt width="45px" height="45px">
   <img src="img/tools/vscode-logo.svg" title="VS Code" alt width="45px" height="45px">
   <img src="img/tools/eclipse-logo.svg" title="Eclipse" alt width="45px" height="45px">
+  <img src="img/tools/netbeans-logo.svg" title="Netbeans" alt width="45px" height="45px">
+  <img src="img/tools/postman-logo.svg" title="Postman" alt width="45px" height="45px">
   <img src="img/tools/figma-logo.svg" title="Figma" alt width="45px" height="45px">
 </div>
 
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/xlucaspx/" title="Lucas da Paz | LinkedIn" target="_blank">
     <img src="img/social/linkedin.svg" alt width="45px" height="45px">
   </a>
-  <a href="https://www.instagram.com/luacspaz/" title="@luacspaz | Instagram" target="_blank">
+  <a href="https://www.instagram.com/_xlucaspx/" title="@_xlucaspx | Instagram" target="_blank">
     <img src="img/social/instagram.svg" alt width="45px" height="45px">
   </a>
   <a href="https://www.goodreads.com/user/show/166889539-lucas-da-paz" title="Lucas da Paz | Goodreads" target="_blank">
@@ -76,11 +76,11 @@
 
 ## Oracle Next Education badges
 
-<ul style="display:flex;gap:1rem">
+<div align="middle">
   <img src="img/badges-one/codificador.png" alt="First challenge badge" width="115px" height="115px">
   <img src="img/badges-one/forca.png" alt="Second challenge badge" width="115px" height="115px">
   <img src="img/badges-one/portfolio.png" alt="Third challenge badge" width="115px" height="115px">
   <img src="img/badges-one/alurageek.png" alt="Fourth challenge badge" width="115px" height="115px">
   <img src="img/badges-one/conversor.png" alt="Fifth challenge badge" width="115px" height="115px">
   <img src="img/badges-one/hotel.png" alt="Sixth challenge badge" width="115px" height="115px">
-</ul>
+</div>
